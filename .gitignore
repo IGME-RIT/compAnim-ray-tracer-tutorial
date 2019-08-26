@@ -25,6 +25,6 @@
 *.a
 
 # Executables
-*.exe
+# dont ignore .exe because we need FFMPEG
 *.out
 *.app
